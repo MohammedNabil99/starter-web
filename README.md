@@ -2,7 +2,7 @@
 Adding a line 
 ## Introduction
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work, then more changes from myfeature branch.
 
 ## Purpose
 
